@@ -1,4 +1,4 @@
-🔐 Registration & Login Form
+#🔐 Registration & Login Form
 
 A simple and responsive Registration and Login Form built using HTML, CSS, and JavaScript. This project provides a user-friendly interface for account creation and login validation, making it ideal for beginners learning front-end web development and form handling.
 
@@ -25,14 +25,6 @@ HTML5 – Used to create the structure of the registration and login forms
 CSS3 – Used for styling, layout, and responsive design
 
 JavaScript – Handles form validation, user input checks, and basic authentication logic
-
-📁 Project Structure
-Registration-Login-Form/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
 
 ▶️ How to Use
 
